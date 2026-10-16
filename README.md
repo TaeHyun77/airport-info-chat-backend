@@ -1,11 +1,6 @@
 ### 프로젝트
 ---
-출국 시 필요한 항공편 상태와 출국장 혼잡도 및 기타 정보를 한 곳에서 실시간으로 확인할 수 있으며, 항공편 검색 및 구독을 통한 알림 기능과 사용자 간 소통을 위한 채팅 기능을 제공하는 통합 공항 정보 서비스<br><br>
-
-### 아키텍처
----
-<p align="center">
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/391915e3-5910-42b4-9b7e-ebda193f56c5" /></p><br><br>
+출국에 필요한 항공편 상태와 출국장 혼잡도 등의 공항 정보를 실시간으로 제공하고, 항공편 검색 및 항공편 상태 변동 알림 구독 기능과 사용자 간 소통을 위한 채팅 기능을 제공하는 통합 공항 정보 서비스입니다.<br><br>
 
 ### 기술 스택
 ---
@@ -20,6 +15,11 @@
 - Search : Elasticsearch
   
 - Infrastructure : Docker, AWS EC2<br><br>
+
+### 아키텍처
+---
+<p align="center">
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/29148d54-02d0-41c8-a443-93c3bf9a7ad0" /></p><br><br>
 
 ### 구현 및 기능
 ---
