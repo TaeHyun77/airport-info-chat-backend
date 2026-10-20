@@ -2,6 +2,10 @@
 ---
 공공데이터 API를 통해 항공편 상태와 출국장 혼잡도 등이 정보를 수집하고, 저장 및 갱신하는 데이터 파이프라인 설계에 중점을 두었습니다. 이를 바탕으로 최신 공항 정보를 제공하고, 사용자 간 실시간 채팅과 공항 데이터를 활용한 AI 챗봇 기능을 구현했습니다.<br><br>
 
+Site : https://incheon-airport-info.site/
+
+Blog : https://velog.io/@ayeah77/series/공항정보-채팅-프로젝트<br><br>
+
 ### 기술 스택
 ---
 Backend : Java, Spring Boot, Spring Data JPA, Spring Security, Spring Mail
