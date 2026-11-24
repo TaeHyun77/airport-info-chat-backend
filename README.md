@@ -23,7 +23,8 @@ ECT : Claude API, WebSocket/STOMP<br><br>
 ### 아키텍처
 ---
 <p align="center">
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/ceb79139-81cc-40b9-8332-5f984c89cfcd" /></p><br><br>
+<img width="902" height="395" alt="image" src="https://github.com/user-attachments/assets/d0aaa95d-e488-4b1f-87f0-abf728285afe" />
+</p><br><br>
 
 ### 구현
 ---
